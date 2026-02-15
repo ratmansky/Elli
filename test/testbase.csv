@@ -1,0 +1,11 @@
+term_display,lemma,pos,cefr,difficulty,example_de,example_hint,collocations,pitfalls,grammar,tags,image_url,pronunciation_ipa
+der Platz,Platz,noun,A1,1,Ich bin auf dem Platz.,Context hint,"auf dem Platz|zum Platz gehen",,"{""gender"":""der"",""plural"":""die Plätze""}","город|A1",https://example.com/image1.jpg,/plats/
+laufen,laufen,verb,A1,1,Ich laufe jeden Tag.,Daily activity,"schnell laufen|joggen gehen",,"{""perfekt"":""ist gelaufen"",""praeteritum"":""lief""}","глаголы|A1",https://example.com/image2.jpg,/ˈlaʊ̯fn̩/
+die Frage,Frage,noun,A1,1,Ich habe eine Frage.,Conversation context,"eine Frage stellen",,"{""gender"":""die"",""plural"":""die Fragen""}","общение|A1",https://example.com/image3.jpg,/ˈfʁaːɡə/
+essen,essen,verb,A1,1,Wir essen zusammen.,Meal context,"zu Abend essen|etwas essen",,"{""perfekt"":""hat gegessen"",""praeteritum"":""aß""}","еда|A1",https://example.com/image4.jpg,/ˈɛsn̩/
+das Problem,Problem,noun,A2,2,Das ist kein Problem.,Neutral reassurance,"ein Problem lösen",,"{""gender"":""das"",""plural"":""die Probleme""}","абстрактное|A2",https://example.com/image5.jpg,/pʁoˈbleːm/
+sprechen,sprechen,verb,A1,1,Ich spreche Deutsch.,Language context,"Deutsch sprechen|miteinander sprechen",,"{""perfekt"":""hat gesprochen"",""praeteritum"":""sprach""}","язык|A1",https://example.com/image6.jpg,/ˈʃpʁɛçn̩/
+die Möglichkeit,Möglichkeit,noun,B1,3,Es gibt eine Möglichkeit.,Abstract idea,"eine Möglichkeit finden",,"{""gender"":""die"",""plural"":""die Möglichkeiten""}","B1|абстрактное",https://example.com/image7.jpg,/ˈmøːklɪçkaɪ̯t/
+verstehen,verstehen,verb,A2,2,Ich verstehe dich.,Communication context,"gut verstehen|nicht verstehen",,"{""perfekt"":""hat verstanden"",""praeteritum"":""verstand""}","общение|A2",https://example.com/image8.jpg,/fɛɐ̯ˈʃteːən/
+die Entscheidung,Entscheidung,noun,B1,3,Das war eine schwere Entscheidung.,Serious context,"eine Entscheidung treffen",,"{""gender"":""die"",""plural"":""die Entscheidungen""}","B1|абстрактное",https://example.com/image9.jpg,/ɛntˈʃaɪ̯dʊŋ/
+arbeiten,arbeiten,verb,A1,1,Ich arbeite heute.,Work context,"viel arbeiten|zusammen arbeiten",,"{""perfekt"":""hat gearbeitet"",""praeteritum"":""arbeitete""}","работа|A1",https://example.com/image10.jpg,/ˈaʁbaɪ̯tn̩/
